@@ -1,0 +1,16 @@
+{
+  "name": "expand-ejs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony -R spec test/*.js"
+  },
+  "dependencies": {
+    "co": "*",    
+    "thunkify"   : "*"
+  },
+  "devDependencies": {
+  },
+  "author": ""
+}
